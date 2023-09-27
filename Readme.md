@@ -1,6 +1,6 @@
 ## ![Imagen](src/media/cambio.png) Conversor de Medidas **_v1.0_**
 
-### Funcion: Este programa, en su versión 1.0 hace conversiones de divisas y temperaturas, directamente, desde y hacia cualquier medida
+### Funcion: Este programa, en su versión 1.0 hace conversiones de divisas y volumenes, directamente, desde y hacia cualquier medida dentro de las opciones:
 
 ##
 
@@ -15,7 +15,7 @@
 
 ##
 
-### Temperaturas:
+### Volumenes:
 
 ![Imagen](https://img.shields.io/badge/Metros_cubicos-salmon)
 ![Imagen](https://img.shields.io/badge/-Galones-salmon)
@@ -31,7 +31,7 @@
 
 ![Imagen](https://img.shields.io/badge/Lenguaje-Java-crimson)
 
-<p>Consiste en un HashMap como tabla de equivalencia en dolares Estadounidenses, entre las diferentes medidas. El software toma del HashMap la equivalencia de la medida entrante y la medida saliente y ejecuta la formula:</p>
+<p>Consiste en un HashMap para cada mapa de equivalencia, por tipo de medida. El software toma del HashMap la equivalencia de la medida entrante y la medida saliente y ejecuta la formula:</p>
 <p><b>Resultado = Valor a convertir * Equivalencia de la medida entrante / Equivalencia de la medida saliente</p></b>
 
 ##
