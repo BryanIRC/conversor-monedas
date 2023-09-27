@@ -6,7 +6,8 @@ public class MiLibreria {
 
     public String[] set_lista_tipos() {
         String[] lista_tipos = {
-                "Monedas"
+                "Monedas",
+                "Volumen"
         };
         return lista_tipos;
     }

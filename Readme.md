@@ -17,9 +17,13 @@
 
 ### Temperaturas:
 
-![Imagen](https://img.shields.io/badge/Centigrados_o_grados_Celcius-salmon)
-![Imagen](https://img.shields.io/badge/-Kelvin-salmon)
-![Imagen](https://img.shields.io/badge/-Farenheit-salmon)
+![Imagen](https://img.shields.io/badge/Metros_cubicos-salmon)
+![Imagen](https://img.shields.io/badge/-Galones-salmon)
+![Imagen](https://img.shields.io/badge/-Onzas-salmon)
+![Imagen](https://img.shields.io/badge/-Pies_cubicos-salmon)
+![Imagen](https://img.shields.io/badge/-Cucharadas-salmon)
+![Imagen](https://img.shields.io/badge/-Tazas-salmon)
+![Imagen](https://img.shields.io/badge/-Pintas-salmon)
 
 ##
 
@@ -32,7 +36,7 @@
 
 ##
 
-![Imagen](src/media/github.png) @BryanIRC
+![Imagen](src/media/github.png) @BryanIRC ![Imagen](src/media/IG.jpeg) @Bryanir16
 <br>
 
 ![Imagen](https://img.shields.io/badge/STATUS-EN_DESAROLLO-orange)
