@@ -1,5 +1,9 @@
 import javax.swing.JOptionPane;
 
+import pa.modelos.Medidas;
+import pa.modelos.Monedas;
+import pa.modelos.Volumen;
+
 public class App {
         public static void main(String[] args) {
                 MiLibreria obj_MiLib = new MiLibreria();

@@ -1,3 +1,5 @@
+package pa.modelos;
+
 import java.util.HashMap;
 
 public class Volumen extends Medidas {
